@@ -1,0 +1,8 @@
+baseURL = 'https://hugo-vercel-test.vercel.app'
+languageCode = 'zh-CN'
+title = 'Hugo Vercel 测试站点'
+theme = 'hugoBasicExample'
+
+[params]
+  author = 'cloudzun'
+  description = '用于测试的 Hugo Vercel 站点'
